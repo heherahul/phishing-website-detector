@@ -13,7 +13,7 @@ A simple machine learning project that helps differentiate phishing websites fro
 
 ## - How to Run
 ```bash
-git clone https://github.com/your-username/phishing-website-detector.git
+git clone https://github.com/heherahul/phishing-website-detector.git
 cd phishing-website-detector
 pip install -r requirements.txt
 jupyter notebook
