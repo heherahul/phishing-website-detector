@@ -3,7 +3,7 @@
 A simple machine learning project that helps differentiate phishing websites from legitimate ones using a Web page Phishing Detection Dataset (mentioned below) and a Random Forest Classifier.
 
 ## - Dataset
-[Phishing Website Dataset on Kaggle](hhttps://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset/data)
+[Phishing Website Dataset on Kaggle](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset/data)
 
 ## - Tech Stack
 - Python
